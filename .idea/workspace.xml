@@ -2,16 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="da272ff1-49c3-4b64-9c38-0887239632ae" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo02/index2.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo03/index2.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo04/index2.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo05/index2.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo06/index2.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo07/index2.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo08/index2.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo09/index2.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo10/index2.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="react-demos.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -126,20 +117,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="react-demos" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="react-demos" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="react-demos" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="demo11" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -590,12 +567,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1503538969665</updated>
-      <workItem from="1503538971570" duration="11144000" />
+      <workItem from="1503538971570" duration="11537000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11144000" />
+    <option name="totallyTimeSpent" value="11537000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
